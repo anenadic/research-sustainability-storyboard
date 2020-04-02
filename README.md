@@ -18,7 +18,7 @@ This campaign informs principal investigators (PIs) of the importance of sustain
 
 ## Storyboard implementation & demo
 
-Demo viewable at: https://drive.google.com/file/d/1Bh89T7ALt3qxuVeUGT7TBgsSxZrON5zl/view.
+Demo viewable at: https://www.youtube.com/watch?v=kSKOq4wvQ6M&feature=youtu.be
 
 Current version of storyboard in [Google Slides](https://docs.google.com/presentation/d/18cDN2xzoB2maMnOEYvhikNoSK081bc6sb6mPxC_rdtc/edit).
 
@@ -28,3 +28,5 @@ Notes from discusion and brainstorming in [Google Docs](https://docs.google.com/
 If you want to get involved, please get in touch via:
 info@software.ac.uk
 
+## Video credits
+Music: https://www.bensound.com
