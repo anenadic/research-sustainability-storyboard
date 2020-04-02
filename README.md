@@ -16,7 +16,10 @@ We want the video to
 
 This campaign informs principal investigators (PIs) of the importance of sustainability in both management and research.
 
-## Storyboard implementation
+## Storyboard implementation & demo
+
+Demo viewable at: https://drive.google.com/file/d/1Bh89T7ALt3qxuVeUGT7TBgsSxZrON5zl/view.
+
 Current version of storyboard in [Google Slides](https://docs.google.com/presentation/d/18cDN2xzoB2maMnOEYvhikNoSK081bc6sb6mPxC_rdtc/edit).
 
 Notes from discusion and brainstorming in [Google Docs](https://docs.google.com/document/d/1dfCtZX_g4nywRHzk1eBa0RskqqdvfGiRbWhSgDcNYBU/edit).
