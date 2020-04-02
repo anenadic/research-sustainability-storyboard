@@ -1,5 +1,5 @@
 # research-sustainability-storyboard
-Research sustainability storyboard hackidea from CW20
+Research sustainability storyboard hack-idea from Siftware Sustainability Institute's Collaboration Workshop 20202 (CW20) #CWorkshop20.
 
 ## Context
 PIs are not always aware of the need to consider sustainability in their workflow. They may not be able respond quickly to reviewers comments because analyses were not done reproducibly. Sustainability is useful throughout the research cycle, from the contact with external areas, such as ethics committees and technical support, to the induction of new lab members and the application of reliable, state-of-the-art methods.
@@ -14,4 +14,6 @@ We want the video to
 
 This campaign informs principal investigators (PIs) of the importance of sustainability in both management and research.
 
+# Storyboard implementation
+Current version in Google Slides: https://docs.google.com/presentation/d/18cDN2xzoB2maMnOEYvhikNoSK081bc6sb6mPxC_rdtc/edit
 
